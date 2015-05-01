@@ -3,11 +3,11 @@ This is Calendar Plugin that lets you manage events. It allows to manage custom 
 #Installation 
 Calendar is compatible with Cordova Plugman, compatible with PhoneGap 3.0 CLI, here's how it works with the CLI:
 ```
-phonegap local plugin add https://github.com/Anuj-Harshe/Calender
+phonegap local plugin add https://github.com/Anuj-Harshe/Calendar
 ```
 or
 ```
-cordova plugin add https://github.com/Anuj-Harshe/Calender
+cordova plugin add https://github.com/Anuj-Harshe/Calendar
 ```
 #Example
 ```
